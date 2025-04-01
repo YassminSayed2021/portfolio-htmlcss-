@@ -8,3 +8,6 @@ body{
 background-color: lightyellow;
 font-family: 'Poppins';
 }
+html {
+    scroll-behavior: smooth;
+}
